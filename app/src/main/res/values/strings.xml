@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Kotlin_eCommerceApp</string>
+    <string name="laptop">Blender</string>
+    <string name="tv">TV</string>
+    <string name="toaster">Toaster</string>
+    <string name="blender">Toaster</string>
+    <string name="iphone">Toaster</string>
+    <string name="warning">Get the best food for the best price</string>
+    <string name="warning1"> Select the quantity of product than click order.</string>
+    <string name="introduce">Choose a products by its category !!!</string>
+    <string name="tshirt">t-shirt</string>
+    <string name="jacket">Jacket</string>
+    <string name="dress">dress</string>
+    <string name="pants">Pants</string>
+    <string name="shoes">shoes</string>
+    <string name="ring">shoes</string>
+    <string name="ring1">shoes</string>
+    <string name="necklace">shoes</string>
+    <string name="nacklace1">shoes</string>
+    <string name="earring">shoes</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+</resources>
